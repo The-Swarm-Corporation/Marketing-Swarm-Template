@@ -1,1 +1,4 @@
 swarms
+loguru
+python-dotenv
+pyyaml
